@@ -1,1 +1,1 @@
-# Test-corrector-
+This's a project which is capable of verifying single answers to a test, so it's able to receive an input from the user, and correct the 'test' out of it. It has an option for alphanumeric and alphabet answers.
